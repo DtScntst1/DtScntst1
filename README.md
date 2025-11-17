@@ -4,7 +4,6 @@
 **DtScntst1/DtScntst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# DtScntst1
 # I'm a Data Scientist & Analyst passionate about building scalable pipelines and extracting insights from raw data.
 # Tech
 
