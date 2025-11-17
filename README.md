@@ -5,8 +5,8 @@
 -->
 
 # DtScntst1
-
-Tech
+# I'm a Data Scientist & Analyst passionate about building scalable pipelines and extracting insights from raw data.
+# Tech
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
