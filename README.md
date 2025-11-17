@@ -10,17 +10,15 @@
 
 # DtScntst1
 
-Merhaba! Benim Github profilime hoş geldin 👋
-
-Aşağıdaki teknolojilerle çalışıyorum:
+Tech Skills
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/colab/colab-original.svg" alt="Colab" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Tableau_Logo.png" alt="Tableau" width="40"/>
-  <img src="https://seeklogo.com/images/P/power-bi-logo-595A159E13-seeklogo.com.png" alt="Power BI" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -31,4 +29,6 @@ Aşağıdaki teknolojilerle çalışıyorum:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Tableau_Logo.png" alt="Tableau" width="40"/>
+  <img src="https://seeklogo.com/images/P/power-bi-logo-595A159E13-seeklogo.com.png" alt="Power BI" width="40"/>
 </p>
