@@ -52,6 +52,5 @@
 
 ### 📫 Let's Connect!
 
-- 💼 **LinkedIn:** *(Add your link here)*
-- 📧 **Email:** *(Add your email here)*
-- 🏆 **Kaggle:** *(Add your Kaggle link here)*
+- 💼 **LinkedIn:** *((https://www.linkedin.com/in/mahsun-yalcin/)*
+- 🏆 **Kaggle:** *((https://www.kaggle.com/mhsn21)*
