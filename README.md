@@ -1,22 +1,40 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Mahsun Yalçın 👋</h1>
-  <h3 align="center">Data Scientist & Machine Learning Engineer</h3>
-  <p align="center">
-    Passionate about building scalable machine learning pipelines, predictive modeling, and extracting actionable insights from raw data.
-  </p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Header" />
 </div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mahsun+Yal%C3%A7%C4%B1n!+%F0%9F%91%8B;Data+Scientist;Machine+Learning+Engineer;Turning+Data+Into+Insights" alt="Typing SVG" />
+  </a>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DtScntst1&label=Profile+Views&color=blue&style=flat-square" alt="views on github" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Advanced Machine Learning Pipelines**
+- 🌱 I’m currently learning **Deep Learning & MLOps**
+- 💬 Ask me about **Python, Data Analysis, and Predictive Modeling**
+- ⚡ Fun fact: **I love visualizing complex data into simple, actionable insights!**
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DtScntst1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DtScntst1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DtScntst1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DtScntst1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DtScntst1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DtScntst1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
@@ -37,20 +55,30 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" title="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" title="Tableau"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,docker,git,github,vscode,html,css,js,ts&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-- 💼 **LinkedIn:** *(https://www.linkedin.com/in/mahsun-yalcin/)*
-- 🏆 **Kaggle:** *(https://www.kaggle.com/mhsn21)*
+<div align="center">
+  <a href="https://linkedin.com/in/mahsun-yalcin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kaggle.com/mahsunyalcin" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer" />
+</div>
