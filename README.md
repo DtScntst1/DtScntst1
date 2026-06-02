@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🔭 I’m currently working on **Advanced Machine Learning Pipelines**
 - 🌱 I’m currently learning **Deep Learning & MLOps**
 - 💬 Ask me about **Python, Data Analysis, and Predictive Modeling**
