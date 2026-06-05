@@ -28,13 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/DtScntst1?base.theme=tokyonight" alt="GitHub Metrics" />
-</div>
-
----
 
 ### 🌟 Portfolio Highlights
 
